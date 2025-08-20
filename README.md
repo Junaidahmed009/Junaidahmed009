@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Junaidahmed009
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning react js and react native
+- 👋 Hi, I’m @Junaidahmed
+- 👀 I’m a Full Stack programmer.
+- 🌱 I’m currently working in different programming laungages.you can check my projects.
  
 
 <!---
