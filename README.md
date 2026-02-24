@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @Junaidahmed
-- 👀 I’m a Full Stack programmer.
-- 🌱 I’m currently working in different programming laungages.you can check my projects.
+DevOps Engineer with around 1 year of hands-on experience in AWS, CI/CD pipelines, Docker optimization, and Kubernetes (EKS) deployments. I support production systems, handle incident troubleshooting, and document real-world DevOps architectures and workflows.
  
 
 <!---
