@@ -1,5 +1,7 @@
-DevOps Engineer with around 1 year of hands-on experience in AWS, CI/CD pipelines, Docker optimization, and Kubernetes (EKS) deployments. I support production systems, handle incident troubleshooting, and document real-world DevOps architectures and workflows.
- 
+Full Stack Developer | Passionate about building web apps
+JavaScript | React | Node.js | Express | MongoDB | SQL
+Learning DevOps & Cloud technologies
+Check out my projects below!
 
 <!---
 Junaidahmed009/Junaidahmed009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
